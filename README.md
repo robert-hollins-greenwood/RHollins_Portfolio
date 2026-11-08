@@ -7,4 +7,4 @@ This most recent summer I worked under Prof. Christine Chung as a research assis
 
 
 
-Outside of these things I love acting, playing video games (Specifically role-playing games, like Final Fantasy and Persona), Making video games (I'm currently playing with the Pico 8 engine), Dungeons & Dragons, Weightlifting, and Creative writing. Fun fact I'm an officially published playwright.
+The two projects you see In this portfolio are a text-based dungeon-crawler where you can receive multiple endings depending on your choices, written in Java. The other is a mock database for one of my favorite grocery store chains Seafood City, which specializes in Filipino items written in SQL with the final graphical user-interface written in Pyhon.
